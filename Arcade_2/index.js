@@ -9,8 +9,8 @@ import home from "./pages/home";
 import menu from "./pages/menu";
 import about from "./pages/about";
 import render from "./functions/render";
-import pageLoad from "./functions/pageLoad";
-import firstLoad from "./functions/firstLoad";
+// import pageLoad from "./functions/pageLoad";
+// import firstLoad from "./functions/firstLoad";
 
 firstLoad();
 
