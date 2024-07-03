@@ -1,6 +1,4 @@
-# Persona 5 X Pokémon Cafe
-
-### This is a Restaurant Web Page for a fictional collab between Persona 5 and Pokemon.
+### This is a Restaurant Web Page for a fictional collab 
 
 `P.S: I know the premise for the website doesn't make a whole lot of sense, it was just the first two things that came to my mind when I thought of making this website.`
 
